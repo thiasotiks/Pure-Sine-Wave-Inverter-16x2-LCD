@@ -10,6 +10,10 @@
   Fuse Blown signal added at D8 [Not implemented so far. Kept for future upgradability]
   Sayantan Sinha: 06/06/2021
   sPWM on the atMega328P for the arduino NANO. H-bridge output with deadtime.
+  *
+  * Copyright (c) 2021 Sayantan Sinha
+  *
+  * MIT License
 */
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
